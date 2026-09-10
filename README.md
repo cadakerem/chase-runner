@@ -1,4 +1,4 @@
-# Chase Runner 🏃
+# Chase Runner
 
 > A fast-paced, local 2-player chase runner game built with MonoGame and C#.
 
@@ -17,7 +17,7 @@ Originally developed as a game programming project, it features custom physics, 
 - **C#**
 - **MonoGame Framework**
 
-## 🚀 Getting Started
+## 🏁 Getting Started
 1. Clone this repository: `git clone https://github.com/cadakerem/chase-runner.git`
 2. Open the `.sln` solution file in **Visual Studio**.
 3. Restore NuGet packages, build, and run the project! (All necessary MonoGame Content assets are included).
