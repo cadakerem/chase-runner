@@ -1,8 +1,8 @@
-# Chase Runner
+﻿# Chase Runner
 
 > A fast-paced, local 2-player chase runner game built with MonoGame and C#.
 
-*(Oyun içi görseller ve GIF'ler eklenecek)*
+*(In-game screenshots and GIFs to be added)*
 
 ## 🎮 About The Game
 Chase Runner is a local 2-player 2D runner game — one player controls the Kid trying to survive, while the other plays as the Butcher hunting them down, both sharing the same keyboard. The tension lies in the dynamic distance between the two characters — this distance acts as the core survival metric of the game.
@@ -25,9 +25,8 @@ Originally developed as a game programming project, it features custom physics, 
 ## 🧑‍💻 Developer & Contributions
 Developed by Kerem Barbaros Karnabat ([@cadakerem](https://github.com/cadakerem)).
 
-> **Note on Repository Structure:** This game is developed using the Unity Engine, with all scripts, prefabs, and game assets structured under the `Assets/` folder. Core gameplay mechanics and character controllers are organized in `Assets/Scripts/`.
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [Issues page](../../issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [Issues page](https://github.com/cadakerem/chase-runner/issues).
 
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE).
+Copyright (c) 2026 Kerem Barbaros Karnabat. All Rights Reserved.
+This project and its contents are not licensed for reuse or redistribution without explicit permission.
