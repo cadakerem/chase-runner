@@ -21,3 +21,13 @@ Originally developed as a game programming project, it features custom physics, 
 1. Clone this repository: `git clone https://github.com/cadakerem/chase-runner.git`
 2. Open the `.sln` solution file in **Visual Studio**.
 3. Restore NuGet packages, build, and run the project! (All necessary MonoGame Content assets are included).
+
+## 🧑‍💻 Developer & Contributions
+Developed by Kerem Barbaros Karnabat (@cadakerem).
+
+> **Note on Repository Structure:** [TODO: Add any specific notes about the repository structure here, e.g., source vs build artifacts.]
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [Issues page](../../issues).
+
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).
