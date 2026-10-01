@@ -23,7 +23,7 @@ Originally developed as a game programming project, it features custom physics, 
 3. Restore NuGet packages, build, and run the project! (All necessary MonoGame Content assets are included).
 
 ## 🧑‍💻 Developer & Contributions
-Developed by Kerem Barbaros Karnabat (@cadakerem).
+Developed by Kerem Barbaros Karnabat ([@cadakerem](https://github.com/cadakerem)).
 
 > **Note on Repository Structure:** This game is developed using the Unity Engine, with all scripts, prefabs, and game assets structured under the `Assets/` folder. Core gameplay mechanics and character controllers are organized in `Assets/Scripts/`.
 
