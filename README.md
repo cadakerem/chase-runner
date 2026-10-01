@@ -25,7 +25,7 @@ Originally developed as a game programming project, it features custom physics, 
 ## 🧑‍💻 Developer & Contributions
 Developed by Kerem Barbaros Karnabat (@cadakerem).
 
-> **Note on Repository Structure:** [TODO: Add any specific notes about the repository structure here, e.g., source vs build artifacts.]
+> **Note on Repository Structure:** This game is developed using the Unity Engine, with all scripts, prefabs, and game assets structured under the `Assets/` folder. Core gameplay mechanics and character controllers are organized in `Assets/Scripts/`.
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [Issues page](../../issues).
 
